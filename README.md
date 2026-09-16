@@ -12,30 +12,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-ben-ms.vercel.app/api?username=MszBen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-ben-ms.vercel.app/api/top-langs/?username=MszBen&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=MszBen&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph-ben-ms.vercel.app/graph?username=MszBen&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-### 🌇 Isometric Commit Calendar
+### 📊 Profile, Languages & Contribution Activity
 
 <div align="center">
 
@@ -45,11 +22,11 @@
 
 ---
 
-### 🏆 Trophies
+### 🔥 Streak Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy-ben-ms.vercel.app/?username=MszBen&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://streak-stats.demolab.com/?user=MszBen&theme=tokyonight&hide_border=true" />
 
 </div>
 
