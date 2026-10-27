@@ -15,10 +15,10 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          base: header, activity, community, repositories
+          # Header only: drops the activity, community and repositories
+          # blocks that were full of zeros.
+          base: header
           config_timezone: Europe/London
-
-          plugin_introduction: yes
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -27,8 +27,3 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
-
-          plugin_repositories: yes
-          plugin_repositories_pinned: yes
-
-          plugin_lines: yes
